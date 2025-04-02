@@ -31,7 +31,7 @@ I’m Mohd Farhan, an Aspiring Software Engineer passionate about Backend Develo
 
 Languages: Java, JavaScript, Python
 
-Backend: Spring Boot, Node.js, Express.js
+Backend:Node.js, Express.js
 
 Frontend: React.js, HTML, CSS
 
@@ -74,7 +74,7 @@ Problem-Solving: Dynamic Programming, Graphs, Trees, Sliding Window, Bit Manipul
 📬 Let's Connect!
 
 💬 Ask me about: DSA, Backend Development, System Design, Java
-📩 Reach me at: mohdfarhan@email.com
+📩 Reach me at: mohdfarhan29102002@email.com
 🌐 Portfolio: mohdfarhan.dev (Coming Soon!)
 <!---
 mohdfarhan254/mohdfarhan254 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
